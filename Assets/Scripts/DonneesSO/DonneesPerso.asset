@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a80031e89866ce44f809564845dc291f, type: 3}
+  m_Name: DonneesPerso
+  m_EditorClassIdentifier: 
+  _niveauIni: 1
+  _argentIni: 500
+  _niveau: 1
+  _argent: 500
+  _tempsAimant: 0
+  _aAimant: 0
+  _aPouvoirGravite: 0
+  _aDoubleSaut: 0
+  _activateurActif: 0

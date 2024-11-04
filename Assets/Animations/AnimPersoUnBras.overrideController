@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AnimPersoUnBras
+  m_Controller: {fileID: 9100000, guid: 04157fb99e7f9b442ad26f5fa81a99df, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: bac1447ba8e715d4f8c434a70c941366, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e3984041bb566254a811269b9dbaff05, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3037cd4fc7387b649aed48263a00a284, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a234a574cecd5234c80d7b66d94a5208, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3fdfb4159ae9ad443923d2815218a181, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d8c94a99bc8527459cfb95374244ce0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 4c1431fa1ba3b554d84f0c2f3e28342a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c5f0141e9690ec40bb2d89713abf96e, type: 2}

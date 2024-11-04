@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 4f408ad6861d903499eff598aee747d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 118
+        height: 41
+      alignment: 9
+      pivot: {x: 0.380992, y: 0.47085014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4caaa7eb2b5b21d4381ffd9a588b2b33
+      internalID: -1052120660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_1"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 211
+        width: 116
+        height: 41
+      alignment: 9
+      pivot: {x: 0.38409162, y: 0.4781375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f583d203f8fa50842ab75610a313ac76
+      internalID: -879536372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_2"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 212
+        width: 114
+        height: 40
+      alignment: 9
+      pivot: {x: 0.40564662, y: 0.47012138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f918a8ec3127eba458c5304ccb797e72
+      internalID: -760558211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_3"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 112
+        height: 40
+      alignment: 9
+      pivot: {x: 0.41730064, y: 0.47759095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442863fcd77861e4889d5e0fb1a9deea
+      internalID: -1180867646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_4"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 111
+        height: 39
+      alignment: 9
+      pivot: {x: 0.42732236, y: 0.5076611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5df3087099f5247b69b0421dc8d5bc
+      internalID: 1888485869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_5"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 167
+        width: 109
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4314711, y: 0.5157254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44c7f49e5eb5bd46bcecd954c71648e
+      internalID: -1497985401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_6"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 169
+        width: 106
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44644395, y: 0.5078627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa6cb02a356d4442ab1472304373a74
+      internalID: 1427310908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_7"
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 169
+        width: 105
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47154424, y: 0.51532215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499fe45ffbe619643b5a12e2c3df7718
+      internalID: -68975776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 103
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47679338, y: 0.5161504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88be1d293a554fb4f95999e3ad198c30
+      internalID: 34888266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_9"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 104
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4569058, y: 0.5383058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e30c7a29973c04f87540c59ca587c6
+      internalID: 2078983972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_10"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 108
+        height: 39
+      alignment: 9
+      pivot: {x: 0.447436, y: 0.5076611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ccb81c142721e4a88a8128c8dfbd21
+      internalID: 1812198748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_11"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 110
+        height: 39
+      alignment: 9
+      pivot: {x: 0.43209395, y: 0.51532215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c730e221bf1c05744ac16f11fdb5cb82
+      internalID: -593565956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_12"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 111
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4165553, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b9b890391aa11408f9af126ca44871
+      internalID: -149507813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_13"
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 114
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4108884, y: 0.50728756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e241e42212144439ddff7810e6a070
+      internalID: 487301353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "LaM\xEAmePourVrai_14"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 75
+        width: 115
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3934764, y: 0.4857719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe6411173d57ff4b9a6e265338f6cab
+      internalID: -32986342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "LaM\xEAmePourVrai_0": -1052120660
+      "LaM\xEAmePourVrai_1": -879536372
+      "LaM\xEAmePourVrai_10": 1812198748
+      "LaM\xEAmePourVrai_11": -593565956
+      "LaM\xEAmePourVrai_12": -149507813
+      "LaM\xEAmePourVrai_13": 487301353
+      "LaM\xEAmePourVrai_14": -32986342
+      "LaM\xEAmePourVrai_2": -760558211
+      "LaM\xEAmePourVrai_3": -1180867646
+      "LaM\xEAmePourVrai_4": 1888485869
+      "LaM\xEAmePourVrai_5": -1497985401
+      "LaM\xEAmePourVrai_6": 1427310908
+      "LaM\xEAmePourVrai_7": -68975776
+      "LaM\xEAmePourVrai_8": 34888266
+      "LaM\xEAmePourVrai_9": 2078983972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

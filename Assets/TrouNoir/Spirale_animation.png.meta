@@ -1,0 +1,2758 @@
+fileFormatVersion: 2
+guid: 1eb954e90b6dd1547bdae0554a1fdea4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spirale_animation_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7795
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b145559475681345964a044bf36f726
+      internalID: 1537021484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 7795
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a695f8add01b6ee4186008f0d9dcb8a0
+      internalID: 1621670055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 7783
+        width: 370
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9c452ad8849544a9953a790b707873
+      internalID: 1588387895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_3
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 7775
+        width: 368
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f37fb56c9ab444a68e698fec4abeb
+      internalID: 211181585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_4
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 7767
+        width: 364
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44006ed09f728c41870a53f45e0a2d5
+      internalID: -352733385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_5
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 7760
+        width: 365
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622faa572ce70594d9e272a30b7bbc2f
+      internalID: 2083079709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_6
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 7748
+        width: 363
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696bc95533b2e984ea84e81adefbe5e1
+      internalID: -807829290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_7
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 7740
+        width: 365
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0295eb41d3386c247929e34e8c9afc0a
+      internalID: 1906673374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_8
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 7733
+        width: 367
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b191bed1f194244a36092d563b5886
+      internalID: -1784226314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_9
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 7727
+        width: 367
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c7c1cdd33f094081b66f8ba91b30f
+      internalID: -1716870258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_10
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 7723
+        width: 369
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0097a6ca22dce87419ff76e0289c5433
+      internalID: -1954832339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_11
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 7719
+        width: 369
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23311d4eb78aee46acd716cd3a437f6
+      internalID: -424251218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_12
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 7717
+        width: 367
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeda379f8828fbe47b17874dc9f225f4
+      internalID: 1896395233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_13
+      rect:
+        serializedVersion: 2
+        x: 6675
+        y: 7716
+        width: 366
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b1315c7debdc45a23d595670d6e7d
+      internalID: -1613922058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_14
+      rect:
+        serializedVersion: 2
+        x: 7255
+        y: 7717
+        width: 366
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ef93b3a1e6c004e9d45b8f4b1427c6
+      internalID: -1419205042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7135
+        width: 366
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1327d29355cce8042a1dfbbf68570d5e
+      internalID: -1998926684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 7132
+        width: 369
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce8f573408ab57419ab16bbca2c5530
+      internalID: 634174314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 7132
+        width: 369
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58beebd1efb999e42accd6543d5d69f8
+      internalID: 1509402382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_18
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 7135
+        width: 366
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509e341ed28fa0469a4e3a6d6b22fc0
+      internalID: -797809395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_19
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 7136
+        width: 366
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee01e811cae355409d818c273da9387
+      internalID: -2063786080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_20
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 7140
+        width: 362
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b206993b646a3e4696477970cd96c9b
+      internalID: -416320728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_21
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 7147
+        width: 364
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c7830d72ec794ba520110db9ee895
+      internalID: -1256291760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_22
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 7151
+        width: 366
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f42ab01afef449ad8296fd18afd77
+      internalID: 653534542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_23
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 7154
+        width: 366
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e165085eb6ed66d49af1b2c77334522d
+      internalID: -231818089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_24
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 7159
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b30f5cf90d56a4bbf61bb394327dee
+      internalID: -1878628715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_25
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 7165
+        width: 369
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476519ad62e74c54ab47c63e8ff6b02e
+      internalID: -2007270376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_26
+      rect:
+        serializedVersion: 2
+        x: 6183
+        y: 7171
+        width: 366
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf087026c9af6a4987824467fd7ab92
+      internalID: -250722829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_27
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 7181
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59518a4c0d9ad148bf55178e8a66fc6
+      internalID: -1641102794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_28
+      rect:
+        serializedVersion: 2
+        x: 7135
+        y: 7191
+        width: 368
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa3f654c08f824aa979fddc427bb48
+      internalID: -88787866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_29
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 7202
+        width: 368
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc12d5a7d20f5074bba00e7aead5b042
+      internalID: -1680807840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6631
+        width: 366
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e6c2e3c5fa14540a32120aea075ed9
+      internalID: 77789987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6627
+        width: 369
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3944440262eaaf040bfd7554a3191c8d
+      internalID: 1759173491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_32
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 6619
+        width: 369
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f92576e3f133074cb028025ee1671a0
+      internalID: 1616071078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_33
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 6611
+        width: 368
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53456e52befb02249a51307b11b88bb4
+      internalID: 458744046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_34
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 6603
+        width: 364
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d667bbffe983d649ab947b5bec47b7d
+      internalID: -1533636060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_35
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 6595
+        width: 365
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5165805dfcdb1346887808f72be019b
+      internalID: -268025096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_36
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 6588
+        width: 367
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cab62d98e5a3b43868bb7d1678891b
+      internalID: 1901658288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_37
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 6580
+        width: 368
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc27efb0ecc8e904c9f15ebdac34b40c
+      internalID: -1239919685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_38
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 6572
+        width: 370
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda81799ec695614794805f22b2a964d
+      internalID: 1430504513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_39
+      rect:
+        serializedVersion: 2
+        x: 4447
+        y: 6567
+        width: 370
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b9cd497558bd48b6b0fe2518e149d
+      internalID: -790386683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_40
+      rect:
+        serializedVersion: 2
+        x: 5007
+        y: 6563
+        width: 370
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993372ae568da1643adb5f31d0a121ae
+      internalID: 1118076586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_41
+      rect:
+        serializedVersion: 2
+        x: 5573
+        y: 6557
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce438412374584381b2ae22b937658
+      internalID: 1524371812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_42
+      rect:
+        serializedVersion: 2
+        x: 6145
+        y: 6555
+        width: 368
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a2f463d7686e428ee79364fc6e181
+      internalID: 1308564247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_43
+      rect:
+        serializedVersion: 2
+        x: 6719
+        y: 6554
+        width: 368
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a81d5e7d300ad478875bf8c68c4324
+      internalID: 936520846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_44
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 6553
+        width: 368
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb75e9aa7cc5024d8f1539b36167e8a
+      internalID: 1402723367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5969
+        width: 371
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48705ae198a04024291d72b62695255f
+      internalID: 886855277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_46
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 5967
+        width: 370
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778da324fac25c440ac322d36f75e4d0
+      internalID: -1700097774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_47
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 5971
+        width: 373
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287259fcfaa38f1449de2a06846fd351
+      internalID: 175515305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_48
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 5971
+        width: 373
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a12c0508e72e524e9639c40a4d59784
+      internalID: -329305639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_49
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 5975
+        width: 371
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657aa6bada965014ea3b016175ca6a96
+      internalID: 1626377714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_50
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 5979
+        width: 368
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c432b2caa9f294eb19cfd9ea07091d
+      internalID: 795320154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_51
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 5980
+        width: 367
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1f56125bf4cf44e8c2f81d65ac6a5d
+      internalID: -1736542936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_52
+      rect:
+        serializedVersion: 2
+        x: 4091
+        y: 5985
+        width: 371
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73b389a63344f7448ab6a49e932da25
+      internalID: -33341917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_53
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 5991
+        width: 374
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb57e1892615b44a62fe0ac28d8e12
+      internalID: -2112274341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_54
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 5997
+        width: 371
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbf3820cfc06d46b3b5bec690035f6
+      internalID: -250396605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_55
+      rect:
+        serializedVersion: 2
+        x: 5663
+        y: 6005
+        width: 374
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519316c403dfbe04794872adb596e040
+      internalID: -1196751959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_56
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 6015
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3c80e371b525849a33da3fef8e4bb8
+      internalID: 660399740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_57
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 6023
+        width: 376
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77831d7353ccc4e8520b2d85ab9dbf
+      internalID: -1332469210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_58
+      rect:
+        serializedVersion: 2
+        x: 7092
+        y: 6035
+        width: 377
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd46432617cb64c94ac6c1c313fad2
+      internalID: -2127623269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_59
+      rect:
+        serializedVersion: 2
+        x: 7531
+        y: 6047
+        width: 375
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16de48822fc884a8a4085bd39254c9
+      internalID: 1558821647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 5472
+        width: 374
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab697737ac0002244a541ce56c25835a
+      internalID: 2051737098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_61
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5460
+        width: 371
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24018c6e3a84c046aad6d4279ebbbdf
+      internalID: 1078630110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_62
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5451
+        width: 368
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549341ca2f7d2834497a0902dc8bdc83
+      internalID: -1499892950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_63
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 5443
+        width: 366
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac9e0d3d117f74e83747ed9799a612
+      internalID: 1186697305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_64
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 5435
+        width: 362
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8f6b02baf141b40b5415089ff4a909
+      internalID: -1835238582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_65
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 5429
+        width: 363
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a1b850b6159e4abebd33852e662ca
+      internalID: 611535190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_66
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 5420
+        width: 365
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f50b9132e4f484db5b448da576f233
+      internalID: 35837052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_67
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 5413
+        width: 367
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642517e0f08e4994a816fdae11335424
+      internalID: 800548682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_68
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 5407
+        width: 367
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e1b7b6972423742a395d2d781eac19
+      internalID: 25857337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_69
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 5403
+        width: 368
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf585ffea02abd4abb09a469b710f2f
+      internalID: 1556065786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_70
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 5399
+        width: 367
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5ccacb751f594bbd9de25aba16a12
+      internalID: 1885172421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_71
+      rect:
+        serializedVersion: 2
+        x: 5619
+        y: 5396
+        width: 367
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef422e7fc9c2fa4a888c21b178db192
+      internalID: 1798603777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_72
+      rect:
+        serializedVersion: 2
+        x: 6195
+        y: 5391
+        width: 364
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a1ba044344eb45a84f72dbabb512b
+      internalID: 1427665076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_73
+      rect:
+        serializedVersion: 2
+        x: 6772
+        y: 5390
+        width: 365
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091afd82e69ffca4d848e5041aef4b08
+      internalID: -1328208754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_74
+      rect:
+        serializedVersion: 2
+        x: 7352
+        y: 5387
+        width: 365
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a07872f845de46878e5293944c39d
+      internalID: 1731263422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_75
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 4804
+        width: 368
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819fc964b112264e9651e10f764db58
+      internalID: -97657874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_76
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 4807
+        width: 368
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cadc45775d687c4baa36a5442b04c7e
+      internalID: 677619513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_77
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 4807
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4d202eae31754eb3261ea05a06be6
+      internalID: 176530986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_78
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 4811
+        width: 366
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aede3175d8bf234cb36434c9971b7fd
+      internalID: -1757672732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_79
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 4817
+        width: 364
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f010d50d9eebd47956a153a163ae38
+      internalID: 1941211051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_80
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 4819
+        width: 363
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a368360c7ef1419ce651bac2c3c0a
+      internalID: -1083389131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_81
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 4824
+        width: 366
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e75e310f98d9744b81bc8f508ef9e9b
+      internalID: -2097022825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_82
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 4829
+        width: 368
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e6687437b048a4d8da690678cb71bf
+      internalID: 1359344842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_83
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 4835
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79680711d03505240a45d16679b1042f
+      internalID: 372623969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_84
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 4843
+        width: 369
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380b10a2b22d4794baa57e70a140f66d
+      internalID: 667118161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_85
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 4851
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637aa32bd62eee45967d6288b2d010f
+      internalID: -1136726639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_86
+      rect:
+        serializedVersion: 2
+        x: 6129
+        y: 4859
+        width: 368
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc41d7427fa5a4d870b7af381ab331
+      internalID: -1709428554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_87
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 4865
+        width: 369
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc58effc51ac4241bc7fc3189440377
+      internalID: 1264548296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_88
+      rect:
+        serializedVersion: 2
+        x: 7053
+        y: 4875
+        width: 368
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e5373d4c5a30d4d8d69eb8f14f65c5
+      internalID: -317192145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_89
+      rect:
+        serializedVersion: 2
+        x: 7485
+        y: 4884
+        width: 367
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755dbdcb173a8140ac446d3560207c9
+      internalID: -1791628246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4301
+        width: 368
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fec7258a02c1a4d888a9d0d9e0294a
+      internalID: 583232217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_91
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 4292
+        width: 368
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e379bb554be3d7b40a0ef0e222db6950
+      internalID: -1232392864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_92
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 4283
+        width: 366
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637845c926caca4f8de31141002fd58
+      internalID: 786558919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_93
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 4275
+        width: 365
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc07ed7ab86d23540bf8c7071bb66359
+      internalID: -954627515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_94
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 4269
+        width: 364
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d56c777a4f1427458a475246558cbcc
+      internalID: 1394602432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_95
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 4259
+        width: 365
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c51522bd1c3acf4abe6067332307053
+      internalID: -1825520252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_96
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 4254
+        width: 368
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf35d51019a509d4e970378fa7e1b953
+      internalID: -1189494655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_97
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 4246
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64fce490c3e714dbfa2a46f5b157c2
+      internalID: 727795915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_98
+      rect:
+        serializedVersion: 2
+        x: 3983
+        y: 4242
+        width: 370
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004ebc614ddd9f4aa2b4810d713f9b4
+      internalID: 738060941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_99
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 4237
+        width: 372
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6282ff838ecdb4bb3b74f7690713fe
+      internalID: 1518209071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_100
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 4235
+        width: 369
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a385378fe380349aae2c1b5e852481
+      internalID: 2058823424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_101
+      rect:
+        serializedVersion: 2
+        x: 5671
+        y: 4233
+        width: 369
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed106a4ac069f1f40b33a0ae6db0453b
+      internalID: -335320804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_102
+      rect:
+        serializedVersion: 2
+        x: 6248
+        y: 4231
+        width: 369
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e928e32bed71c54ca8cb3050b331745
+      internalID: -2104703328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_103
+      rect:
+        serializedVersion: 2
+        x: 6829
+        y: 4231
+        width: 368
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2123923b93b1e4594b4756371ada43
+      internalID: -1636219975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_104
+      rect:
+        serializedVersion: 2
+        x: 7407
+        y: 4227
+        width: 371
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc1e0e8a4f70c42bb99c21691af6a1
+      internalID: 100304964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3646
+        width: 371
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12230a5599fb29f44bda4ea569961a61
+      internalID: -1656184122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_106
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3647
+        width: 372
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f0f985088a89e49a6a522fe573a3bd
+      internalID: -599428713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_107
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3651
+        width: 373
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee94e962290f84f8651e9e070c7fbc
+      internalID: 96427556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_108
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 3654
+        width: 370
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ecdb75bfe8064a9c38c8e4240108c
+      internalID: 1371838029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_109
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3659
+        width: 368
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e3d2666db23c940b03146449addfbf
+      internalID: -2009169745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_110
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 3663
+        width: 368
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6df773f7ff30b34bb9e5b140933002d
+      internalID: -2050462551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_111
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 3667
+        width: 370
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572470380368352448c6e4f1f14aed98
+      internalID: 64128554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_112
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 3671
+        width: 371
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7237e957ded17fb4c9aded487c0715a1
+      internalID: -41646115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_113
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3679
+        width: 373
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea3fc67d9274640afa1be79f7fe729
+      internalID: 531735033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_114
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 3687
+        width: 374
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f46aad19a2350c49b602356aec52aa4
+      internalID: 1220289530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_115
+      rect:
+        serializedVersion: 2
+        x: 5599
+        y: 3695
+        width: 373
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab409d287fa436342a8b935f24eb4edd
+      internalID: -365239739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_116
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 3700
+        width: 374
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395f92045d8e514fba293f6570df25a
+      internalID: -1056246630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_117
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 3708
+        width: 375
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925f424677902ae4b827631b69d177e6
+      internalID: 626257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spirale_animation_118
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 3716
+        width: 376
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa510f667c8a7498fe2d87314dc708
+      internalID: 2086536332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Spirale_animation_0: 1537021484
+      Spirale_animation_1: 1621670055
+      Spirale_animation_10: -1954832339
+      Spirale_animation_100: 2058823424
+      Spirale_animation_101: -335320804
+      Spirale_animation_102: -2104703328
+      Spirale_animation_103: -1636219975
+      Spirale_animation_104: 100304964
+      Spirale_animation_105: -1656184122
+      Spirale_animation_106: -599428713
+      Spirale_animation_107: 96427556
+      Spirale_animation_108: 1371838029
+      Spirale_animation_109: -2009169745
+      Spirale_animation_11: -424251218
+      Spirale_animation_110: -2050462551
+      Spirale_animation_111: 64128554
+      Spirale_animation_112: -41646115
+      Spirale_animation_113: 531735033
+      Spirale_animation_114: 1220289530
+      Spirale_animation_115: -365239739
+      Spirale_animation_116: -1056246630
+      Spirale_animation_117: 626257707
+      Spirale_animation_118: 2086536332
+      Spirale_animation_12: 1896395233
+      Spirale_animation_13: -1613922058
+      Spirale_animation_14: -1419205042
+      Spirale_animation_15: -1998926684
+      Spirale_animation_16: 634174314
+      Spirale_animation_17: 1509402382
+      Spirale_animation_18: -797809395
+      Spirale_animation_19: -2063786080
+      Spirale_animation_2: 1588387895
+      Spirale_animation_20: -416320728
+      Spirale_animation_21: -1256291760
+      Spirale_animation_22: 653534542
+      Spirale_animation_23: -231818089
+      Spirale_animation_24: -1878628715
+      Spirale_animation_25: -2007270376
+      Spirale_animation_26: -250722829
+      Spirale_animation_27: -1641102794
+      Spirale_animation_28: -88787866
+      Spirale_animation_29: -1680807840
+      Spirale_animation_3: 211181585
+      Spirale_animation_30: 77789987
+      Spirale_animation_31: 1759173491
+      Spirale_animation_32: 1616071078
+      Spirale_animation_33: 458744046
+      Spirale_animation_34: -1533636060
+      Spirale_animation_35: -268025096
+      Spirale_animation_36: 1901658288
+      Spirale_animation_37: -1239919685
+      Spirale_animation_38: 1430504513
+      Spirale_animation_39: -790386683
+      Spirale_animation_4: -352733385
+      Spirale_animation_40: 1118076586
+      Spirale_animation_41: 1524371812
+      Spirale_animation_42: 1308564247
+      Spirale_animation_43: 936520846
+      Spirale_animation_44: 1402723367
+      Spirale_animation_45: 886855277
+      Spirale_animation_46: -1700097774
+      Spirale_animation_47: 175515305
+      Spirale_animation_48: -329305639
+      Spirale_animation_49: 1626377714
+      Spirale_animation_5: 2083079709
+      Spirale_animation_50: 795320154
+      Spirale_animation_51: -1736542936
+      Spirale_animation_52: -33341917
+      Spirale_animation_53: -2112274341
+      Spirale_animation_54: -250396605
+      Spirale_animation_55: -1196751959
+      Spirale_animation_56: 660399740
+      Spirale_animation_57: -1332469210
+      Spirale_animation_58: -2127623269
+      Spirale_animation_59: 1558821647
+      Spirale_animation_6: -807829290
+      Spirale_animation_60: 2051737098
+      Spirale_animation_61: 1078630110
+      Spirale_animation_62: -1499892950
+      Spirale_animation_63: 1186697305
+      Spirale_animation_64: -1835238582
+      Spirale_animation_65: 611535190
+      Spirale_animation_66: 35837052
+      Spirale_animation_67: 800548682
+      Spirale_animation_68: 25857337
+      Spirale_animation_69: 1556065786
+      Spirale_animation_7: 1906673374
+      Spirale_animation_70: 1885172421
+      Spirale_animation_71: 1798603777
+      Spirale_animation_72: 1427665076
+      Spirale_animation_73: -1328208754
+      Spirale_animation_74: 1731263422
+      Spirale_animation_75: -97657874
+      Spirale_animation_76: 677619513
+      Spirale_animation_77: 176530986
+      Spirale_animation_78: -1757672732
+      Spirale_animation_79: 1941211051
+      Spirale_animation_8: -1784226314
+      Spirale_animation_80: -1083389131
+      Spirale_animation_81: -2097022825
+      Spirale_animation_82: 1359344842
+      Spirale_animation_83: 372623969
+      Spirale_animation_84: 667118161
+      Spirale_animation_85: -1136726639
+      Spirale_animation_86: -1709428554
+      Spirale_animation_87: 1264548296
+      Spirale_animation_88: -317192145
+      Spirale_animation_89: -1791628246
+      Spirale_animation_9: -1716870258
+      Spirale_animation_90: 583232217
+      Spirale_animation_91: -1232392864
+      Spirale_animation_92: 786558919
+      Spirale_animation_93: -954627515
+      Spirale_animation_94: 1394602432
+      Spirale_animation_95: -1825520252
+      Spirale_animation_96: -1189494655
+      Spirale_animation_97: 727795915
+      Spirale_animation_98: 738060941
+      Spirale_animation_99: 1518209071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

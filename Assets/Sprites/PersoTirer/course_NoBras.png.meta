@@ -1,0 +1,1042 @@
+fileFormatVersion: 2
+guid: a6ed6dffe004d6640a06a4f6a8f19fa4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: course_NoBras_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 831
+        width: 118
+        height: 189
+      alignment: 9
+      pivot: {x: 0.33430582, y: 0.5282131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb947d03719f1149b9ec323203852d6
+      internalID: -386378008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 831
+        width: 112
+        height: 188
+      alignment: 9
+      pivot: {x: 0.31484917, y: 0.5267873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cffb74f075e94d80df54067a42061
+      internalID: -1085811819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 833
+        width: 108
+        height: 187
+      alignment: 9
+      pivot: {x: 0.30250576, y: 0.520594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1338a7d4f5274484c21abb08d0d25
+      internalID: -775662975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 834
+        width: 103
+        height: 186
+      alignment: 9
+      pivot: {x: 0.29291868, y: 0.5207044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4419d1cbab6d548b02f273be26e3bc
+      internalID: 822553981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 834
+        width: 99
+        height: 185
+      alignment: 9
+      pivot: {x: 0.2815595, y: 0.5256206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e507e6a798a6542ab2a395b222a077
+      internalID: 1758443679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 835
+        width: 91
+        height: 185
+      alignment: 9
+      pivot: {x: 0.27212223, y: 0.51601267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b5f66eeddd995468e42d39923dacac
+      internalID: 444653424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 835
+        width: 88
+        height: 184
+      alignment: 9
+      pivot: {x: 0.25762036, y: 0.5177095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75792c7268c086f45b3075385961c7bc
+      internalID: 1461085721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 837
+        width: 85
+        height: 182
+      alignment: 9
+      pivot: {x: 0.2664917, y: 0.51464844}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3e3c028a1f2564ca353e137e6e70c4
+      internalID: -1313159735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 839
+        width: 82
+        height: 181
+      alignment: 9
+      pivot: {x: 0.27962512, y: 0.5114561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b0cc388148754ba165317d9e8ab6b
+      internalID: -1483806393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 841
+        width: 79
+        height: 179
+      alignment: 9
+      pivot: {x: 0.2525071, y: 0.50496465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e415f05a6e52d44b5cc5defe599240
+      internalID: -751308180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 650
+        width: 78
+        height: 176
+      alignment: 9
+      pivot: {x: 0.25609395, y: 0.50154424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511bc8703063b3448a41bf9259fcdd09
+      internalID: 255140431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 649
+        width: 76
+        height: 177
+      alignment: 9
+      pivot: {x: 0.26397967, y: 0.50153553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6135ade526adc244a837fe0c37363bf
+      internalID: 1094767249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 645
+        width: 76
+        height: 182
+      alignment: 9
+      pivot: {x: 0.29974023, y: 0.51493317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c86069ed854b2a4b8be8530b1737cc8
+      internalID: 708144039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 641
+        width: 75
+        height: 185
+      alignment: 9
+      pivot: {x: 0.30431762, y: 0.5249746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da1f8d5b38c6b498dad4f0ca852067
+      internalID: 1386443743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 639
+        width: 77
+        height: 188
+      alignment: 9
+      pivot: {x: 0.29528174, y: 0.52746713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a96d9dcaa85f42aa9dcdd73a45337
+      internalID: -1019821540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_15
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 636
+        width: 81
+        height: 190
+      alignment: 9
+      pivot: {x: 0.3154572, y: 0.53433037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42442904c69f83d4198f81c3d4ef3bf9
+      internalID: -2004380424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 636
+        width: 88
+        height: 190
+      alignment: 9
+      pivot: {x: 0.28998706, y: 0.5357608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33c8cf8dc1a56e409a569cfcf5bef1e
+      internalID: 502206776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 636
+        width: 93
+        height: 191
+      alignment: 9
+      pivot: {x: 0.27789897, y: 0.53557324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccc18111055b5e4cb2f058f48ebc917
+      internalID: -1462000796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_18
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 636
+        width: 102
+        height: 190
+      alignment: 9
+      pivot: {x: 0.2788451, y: 0.53433037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3dbb3a2a68bc4189df734e06551d1
+      internalID: 260026974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_19
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 636
+        width: 98
+        height: 190
+      alignment: 9
+      pivot: {x: 0.29477802, y: 0.53289986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f441f50b0def374cad73b0fe32954e3
+      internalID: -466934263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 636
+        width: 95
+        height: 190
+      alignment: 9
+      pivot: {x: 0.30666375, y: 0.53430146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be50b3f0f1888f4fa1715da3a1f88e7
+      internalID: -1400498356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 441
+        width: 94
+        height: 190
+      alignment: 9
+      pivot: {x: 0.32363144, y: 0.53433037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86779a50176e9a248b6b3c903624a3a0
+      internalID: 397070554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_22
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 442
+        width: 90
+        height: 190
+      alignment: 9
+      pivot: {x: 0.34297097, y: 0.5314694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d709e292ab9c498819ba37e65747c
+      internalID: 1048168005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 443
+        width: 87
+        height: 189
+      alignment: 9
+      pivot: {x: 0.35317573, y: 0.5316359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101958ce16bcf44e98f646223064397
+      internalID: -89044516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 443
+        width: 83
+        height: 188
+      alignment: 9
+      pivot: {x: 0.3722957, y: 0.5303585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef274693eeaf8334eb5699ab94c70337
+      internalID: -135543913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 444
+        width: 81
+        height: 188
+      alignment: 9
+      pivot: {x: 0.41611698, y: 0.5303585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c0764211aff554898ec4d99035bc99
+      internalID: -1304142380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 444
+        width: 79
+        height: 187
+      alignment: 9
+      pivot: {x: 0.43463445, y: 0.53197426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e942edc779e674fb3a70edd29a2adf
+      internalID: 299370461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 444
+        width: 74
+        height: 187
+      alignment: 9
+      pivot: {x: 0.45592684, y: 0.53052086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a92086fdbc45469f36b88c87d94e4
+      internalID: -1960810748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 444
+        width: 74
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49265432, y: 0.5303585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9db051220093e4fbb547cd97a3d18f
+      internalID: 1639006693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_29
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 445
+        width: 79
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5034404, y: 0.5232541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3502b14f6088ed46a77a3c31017231f
+      internalID: -624723719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 446
+        width: 85
+        height: 185
+      alignment: 9
+      pivot: {x: 0.47761732, y: 0.5249746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c349abf6befaf434f9bb2d044280eedf
+      internalID: 732508528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_31
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 448
+        width: 90
+        height: 183
+      alignment: 9
+      pivot: {x: 0.4758416, y: 0.5178216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4331ddd2f6e3c5469455f207941036d
+      internalID: 216241751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 252
+        width: 95
+        height: 185
+      alignment: 9
+      pivot: {x: 0.47425225, y: 0.51762927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3341a9d38ececd4fbc886241b00faff
+      internalID: -422217731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 251
+        width: 101
+        height: 186
+      alignment: 9
+      pivot: {x: 0.45963642, y: 0.5175343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a43d2fb3ab17b4ba061864c9605434
+      internalID: -1203412689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 251
+        width: 112
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4296281, y: 0.5189955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc544c9081104a14d843f201ae0776e4
+      internalID: 1235959759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 116
+        height: 186
+      alignment: 9
+      pivot: {x: 0.41565415, y: 0.5219179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89b9ce4eb8a4ca4d9838bbf6743ee91
+      internalID: -390635477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 250
+        width: 120
+        height: 186
+      alignment: 9
+      pivot: {x: 0.4139361, y: 0.52922386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a803e610dd6854b9717b4b8c9ec774
+      internalID: 467995528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_37
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 250
+        width: 123
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4138253, y: 0.5290676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700798bec90fca54ca00ebae1831b7a3
+      internalID: 1888327754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_38
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 250
+        width: 125
+        height: 187
+      alignment: 9
+      pivot: {x: 0.40215868, y: 0.5261607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44188a832268d96419f15643ef16e325
+      internalID: -1411480835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_39
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 250
+        width: 126
+        height: 187
+      alignment: 9
+      pivot: {x: 0.40077862, y: 0.5290676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202c6fae98b76e49b8d3cabd93f287f
+      internalID: 676916643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_NoBras_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 127
+        height: 187
+      alignment: 9
+      pivot: {x: 0.3972796, y: 0.523254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f611e0f10eec0df40bc5a7faeb854937
+      internalID: 2077492949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      course_NoBras_0: -386378008
+      course_NoBras_1: -1085811819
+      course_NoBras_10: 255140431
+      course_NoBras_11: 1094767249
+      course_NoBras_12: 708144039
+      course_NoBras_13: 1386443743
+      course_NoBras_14: -1019821540
+      course_NoBras_15: -2004380424
+      course_NoBras_16: 502206776
+      course_NoBras_17: -1462000796
+      course_NoBras_18: 260026974
+      course_NoBras_19: -466934263
+      course_NoBras_2: -775662975
+      course_NoBras_20: -1400498356
+      course_NoBras_21: 397070554
+      course_NoBras_22: 1048168005
+      course_NoBras_23: -89044516
+      course_NoBras_24: -135543913
+      course_NoBras_25: -1304142380
+      course_NoBras_26: 299370461
+      course_NoBras_27: -1960810748
+      course_NoBras_28: 1639006693
+      course_NoBras_29: -624723719
+      course_NoBras_3: 822553981
+      course_NoBras_30: 732508528
+      course_NoBras_31: 216241751
+      course_NoBras_32: -422217731
+      course_NoBras_33: -1203412689
+      course_NoBras_34: 1235959759
+      course_NoBras_35: -390635477
+      course_NoBras_36: 467995528
+      course_NoBras_37: 1888327754
+      course_NoBras_38: -1411480835
+      course_NoBras_39: 676916643
+      course_NoBras_4: 1758443679
+      course_NoBras_40: 2077492949
+      course_NoBras_5: 444653424
+      course_NoBras_6: 1461085721
+      course_NoBras_7: -1313159735
+      course_NoBras_8: -1483806393
+      course_NoBras_9: -751308180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

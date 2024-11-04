@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 1808e209de43c8745851952208ddba79
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 118
+        height: 41
+      alignment: 9
+      pivot: {x: 0.38273278, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a152f5f6ca71914e9ab9a397b8398fb
+      internalID: 1829557203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 211
+        width: 116
+        height: 41
+      alignment: 9
+      pivot: {x: 0.39263982, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f52adea7b2d5b4e813bc31c12504d3
+      internalID: 1473519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 212
+        width: 114
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4028944, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e25e7d6b6362b44b2569d84f7b0b05
+      internalID: -283271508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 211
+        width: 112
+        height: 40
+      alignment: 9
+      pivot: {x: 0.40857342, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c602ab2eb567934ebef50f60811529b
+      internalID: -659745332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 111
+        height: 39
+      alignment: 9
+      pivot: {x: 0.42520252, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626bed786f4c7f145b02175a21388e46
+      internalID: 1669084347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 167
+        width: 109
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4365251, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c9d34ca05595945922f292b257a9a9
+      internalID: -1831038061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 169
+        width: 107
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4482707, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95482cdb3b9be2146901831b7c9def60
+      internalID: 1416526927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 169
+        width: 105
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47100684, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fba12c1a20acc47884c70d73e8c694
+      internalID: -198655497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 103
+        height: 37
+      alignment: 9
+      pivot: {x: 0.47850478, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617215c965785d34e81b2ae1678a9ee3
+      internalID: -30260584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 104
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45210075, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858a8d2a7cfa664e812dc9fd9087987
+      internalID: -1020806907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 122
+        width: 108
+        height: 39
+      alignment: 9
+      pivot: {x: 0.44106236, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2e555bfc2c804db429c7d58a1b1f2
+      internalID: -181424874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 110
+        height: 39
+      alignment: 9
+      pivot: {x: 0.42703828, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbca63fdfa71294eb8081e7423d6e1a
+      internalID: -2069418587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 111
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4077498, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01135bc407ebcfd4c86de3095e6e9e0a
+      internalID: 845291865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 75
+        width: 114
+        height: 41
+      alignment: 9
+      pivot: {x: 0.40532216, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f593ca17106a4ebd9345a380db0c2
+      internalID: 1443957360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrosseEnnemiMarche_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 75
+        width: 115
+        height: 42
+      alignment: 9
+      pivot: {x: 0.39411277, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ffb8632bd208740ada9ba4f93c9fa4
+      internalID: 1037165815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GrosseEnnemiMarche_0: 1829557203
+      GrosseEnnemiMarche_1: 1473519
+      GrosseEnnemiMarche_10: -181424874
+      GrosseEnnemiMarche_11: -2069418587
+      GrosseEnnemiMarche_12: 845291865
+      GrosseEnnemiMarche_13: 1443957360
+      GrosseEnnemiMarche_14: 1037165815
+      GrosseEnnemiMarche_2: -283271508
+      GrosseEnnemiMarche_3: -659745332
+      GrosseEnnemiMarche_4: 1669084347
+      GrosseEnnemiMarche_5: -1831038061
+      GrosseEnnemiMarche_6: 1416526927
+      GrosseEnnemiMarche_7: -198655497
+      GrosseEnnemiMarche_8: -30260584
+      GrosseEnnemiMarche_9: -1020806907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

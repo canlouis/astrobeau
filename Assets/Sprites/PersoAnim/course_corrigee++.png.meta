@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 34f6102fc1f67dd49806e29102f026b7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: course_corrigee++_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 831
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5baf71b703a9b8e4b91697ce2a096764
+      internalID: -1522377412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 831
+        width: 112
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5444bc3874264c9326732328bd265
+      internalID: 906452125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 833
+        width: 108
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e89aa17260cc418c159c029dc5d84
+      internalID: -1668932682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 834
+        width: 103
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16f6a02e1b1531449ef2a17c7a41aaa
+      internalID: 1221345823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 834
+        width: 99
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e4eba49edd52d4c8045d2bd39c3d38
+      internalID: -2032367916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 835
+        width: 91
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36501242c933a642bed6e7fa799ed98
+      internalID: -61320875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 835
+        width: 88
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7fcc688b5ee9948adf1cd36ed1a28e
+      internalID: -110315983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 837
+        width: 86
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7778d4b75767fe54f8aa21d69dbbc69f
+      internalID: -316958452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 839
+        width: 85
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f2b8b043f2a14f85cd4addd9272c8
+      internalID: -814142202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 648
+        width: 86
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5651473b5bcd1184288b536a7f2524e2
+      internalID: -852119239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 650
+        width: 86
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc1959dd5d3ae64dbf89394136b203e
+      internalID: 1387376562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 649
+        width: 82
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd699d38f0cc954db468db3b289851b
+      internalID: 445008049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 645
+        width: 80
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5460262c87f3e04bb892ef8292742e6
+      internalID: 1764990263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_13
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 641
+        width: 78
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151629e83d29a364a805d9733c303296
+      internalID: 1980007311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 639
+        width: 80
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656f5d0d734edd4db68f09fdf263180
+      internalID: -742349974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 636
+        width: 81
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efad86a254c46a4a8711a2d4f453459
+      internalID: -2079415987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 636
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa566c4d21528e848b61327d5a846d47
+      internalID: 939779300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 636
+        width: 93
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80be052b89a6224fa617262006b0538
+      internalID: 454733275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_18
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 636
+        width: 102
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c928bb987d73e438a08618ade9f0d6
+      internalID: -551067699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 636
+        width: 98
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f339238e8d963024287842a9976fa21c
+      internalID: -77726608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 441
+        width: 95
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c177d9f8e7e3ebb43976e33b2c46fbac
+      internalID: 10267495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_21
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 441
+        width: 94
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211b4aaf47129f74da4e4466d5f48e6f
+      internalID: 37183602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 442
+        width: 90
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b80f2411e304974bb66148f4c4786ff
+      internalID: -263658646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_23
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 443
+        width: 87
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a434981b1d29409e7dd1449fb9863
+      internalID: 1623612535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 443
+        width: 83
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993a6b3fa5d0ae4fa444eaf9c4b18b5
+      internalID: 475409396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 444
+        width: 81
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f0d5261d0f7845a843de833791dfc
+      internalID: 1504851566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 444
+        width: 78
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0103dd828cad91448c598581e1c8f73
+      internalID: -1371677656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_27
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 444
+        width: 74
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7f1424ea6d624f97e9eb9838bfb7f
+      internalID: -1020863563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 444
+        width: 74
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a2446c1fa77de4585bc1f085f8ddd8
+      internalID: -1403393968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_29
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 445
+        width: 78
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d329ac50b0c4d34382de1537f34cb23
+      internalID: 26701900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 446
+        width: 85
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945110109b5b9794598cc7ba193eef44
+      internalID: -1692814364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 253
+        width: 90
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ab937eefac6548b484ffb812580ef
+      internalID: 1346349174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 252
+        width: 95
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ee2d95f4e06d4ebd43d24fc4a6278
+      internalID: -1197584355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_33
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 251
+        width: 101
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d433eba307940646a1293c1979e68b5
+      internalID: 1884253807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 251
+        width: 112
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3312bf8b1ad14fad53738d3002bd1
+      internalID: 591274390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_35
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 251
+        width: 116
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46039d26806945a4ebc6d91c2fb93d0f
+      internalID: 133887576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_36
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 250
+        width: 120
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea588a4079f4e044294dc2dde23d6543
+      internalID: -754112643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_37
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 250
+        width: 123
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595f8335c583cc34f9e2e77390d3c96c
+      internalID: 1443929975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_38
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 250
+        width: 125
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f29ce7acdd47f4a96e0516ff50d65a
+      internalID: 578858839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 126
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6874e5b376c284995c0440f30863b9
+      internalID: -846579093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_corrigee++_40
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 59
+        width: 127
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d9d0ee11d0aa44860361f93fe9faf
+      internalID: -1256881670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      course_corrigee++_0: -1522377412
+      course_corrigee++_1: 906452125
+      course_corrigee++_10: 1387376562
+      course_corrigee++_11: 445008049
+      course_corrigee++_12: 1764990263
+      course_corrigee++_13: 1980007311
+      course_corrigee++_14: -742349974
+      course_corrigee++_15: -2079415987
+      course_corrigee++_16: 939779300
+      course_corrigee++_17: 454733275
+      course_corrigee++_18: -551067699
+      course_corrigee++_19: -77726608
+      course_corrigee++_2: -1668932682
+      course_corrigee++_20: 10267495
+      course_corrigee++_21: 37183602
+      course_corrigee++_22: -263658646
+      course_corrigee++_23: 1623612535
+      course_corrigee++_24: 475409396
+      course_corrigee++_25: 1504851566
+      course_corrigee++_26: -1371677656
+      course_corrigee++_27: -1020863563
+      course_corrigee++_28: -1403393968
+      course_corrigee++_29: 26701900
+      course_corrigee++_3: 1221345823
+      course_corrigee++_30: -1692814364
+      course_corrigee++_31: 1346349174
+      course_corrigee++_32: -1197584355
+      course_corrigee++_33: 1884253807
+      course_corrigee++_34: 591274390
+      course_corrigee++_35: 133887576
+      course_corrigee++_36: -754112643
+      course_corrigee++_37: 1443929975
+      course_corrigee++_38: 578858839
+      course_corrigee++_39: -846579093
+      course_corrigee++_4: -2032367916
+      course_corrigee++_40: -1256881670
+      course_corrigee++_5: -61320875
+      course_corrigee++_6: -110315983
+      course_corrigee++_7: -316958452
+      course_corrigee++_8: -814142202
+      course_corrigee++_9: -852119239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

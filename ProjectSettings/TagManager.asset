@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Perso
+  - boost
+  - tresors
+  - Activateur
+  - EffectorJoyaux
+  - TuileSol
+  - Ennemis
+  - Bras
+  - Aimant
+  - PersoInvincible
+  - Ennemi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Perso
+  - Water
+  - UI
+  - TuilesBloc
+  - Objets
+  - TrouNoir
+  - EffetsTrouNoir
+  - Ennemis
+  - Bras
+  - Aimant
+  - Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: TrouFond
+    uniqueID: 3567452261
+    locked: 0
+  - name: TrouNoir
+    uniqueID: 1325684403
+    locked: 0
+  - name: UI
+    uniqueID: 2135291901
+    locked: 0
+  - name: TuilesFond
+    uniqueID: 3823906681
+    locked: 0
+  - name: Trou
+    uniqueID: 4171617081
+    locked: 0
+  - name: Aimant
+    uniqueID: 1529612165
+    locked: 0
+  - name: Particules
+    uniqueID: 1406130551
+    locked: 0
+  - name: Objets
+    uniqueID: 1263330853
+    locked: 0
+  - name: Ennemis
+    uniqueID: 2561060759
+    locked: 0
+  - name: TuilesDevant
+    uniqueID: 266683019
+    locked: 0
+  - name: Cle
+    uniqueID: 3942093753
+    locked: 0
+  - name: Perso
+    uniqueID: 886307049
+    locked: 0
+  - name: Bras
+    uniqueID: 1642789243
+    locked: 0
+  - name: TextesAnimes
+    uniqueID: 208246091
+    locked: 0
+  - name: FondFin
+    uniqueID: 3248091327
+    locked: 0
